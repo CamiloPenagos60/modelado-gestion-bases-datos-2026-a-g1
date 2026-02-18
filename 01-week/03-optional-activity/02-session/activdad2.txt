@@ -1,0 +1,10 @@
+Preparando el terreno para el modelo entidad-relación
+
+* ¿Qué pasaría si no definimos correctamente las claves de cada entidad desde el inicio?
+Respuesta: Se almacenaría información de una entidad a otra, dañando la integridad de las entidades.
+
+* ¿Qué ventajas aporta tener identificadas las entidades antes de pasar al diagrama ER formal?
+Respuesta: Mantiene una lógica estable y se sabe con anterioridad que información se establecera en la base de datos, asi como también que relaciones habrá entre las entidades. 
+
+* ¿Qué información adicional consideras crítica en un sistema académico que aún no hemos modelado?
+Respuesta: El docente, ya que no se da a conocer que asignatura impartirá al estudiante y que horarios tenga disponibles. 
